@@ -1,0 +1,25 @@
+body {
+    width: auto;
+    background: white;
+    background-image: url(img/nuage.jpg);
+}
+
+div {
+    background-color: white;
+    border: 2px inset rgb(4, 162, 253);
+    height: auto;
+    margin: auto;
+    padding: 1%;
+
+}
+span {
+    font-weight: bold;
+
+}
+section {
+    border: 2px inset rgb(0, 132, 255);
+    background-color: white;
+    height: auto;
+    margin: auto;
+    padding: 1%;
+}
